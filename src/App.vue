@@ -6,7 +6,7 @@
     </header>
     <!-- Main content area with routes -->
     <main class="mx-auto p-6 bg-gray-700 rounded shadow-lg mt-6 w-full sm:w-2/3 lg:w-3/4 text-center font-bold text-2xl">
-      <router-view />
+      <router-view/>
     </main>
     <!-- Explanation Section -->
     <section class="mx-auto p-4 bg-gray-800 rounded shadow-md mt-6 w-full sm:w-2/3 lg:w-3/4 text-center text-lg text-rose-500 font-mono">
