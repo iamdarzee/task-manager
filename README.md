@@ -4,6 +4,8 @@ The **Z Task Manager** is a straightforward, efficient way to manage and track y
 
 Keep your workflow clean by deleting completed tasks regularly, which frees up space and helps you stay organized.
 
+Live site: https://iamdarzee.github.io/task-manager/#/
+
 ## Features
 
 - **Add Tasks**: Easily add tasks with task names, start, and end times.
