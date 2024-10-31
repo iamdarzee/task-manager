@@ -27,7 +27,28 @@ Keep your workflow clean by deleting completed tasks regularly, which frees up s
    ```bash
    cd z-task-manager
    ```
-3. Open `index.html` in your browser to start using Z Task Manager.
+3. Install Node Modules
+```
+npm install
+```
+
+4. ### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+5. ### Compiles and minifies for production
+```
+npm run build
+```
+
+6. ### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## Contributing
 
@@ -38,27 +59,3 @@ If you would like to contribute to Z Task Manager, feel free to fork the reposit
 Efficiently manage tasks with start and end times, track task durations, and save everything locally. Delete completed tasks to keep your list organized.
 
 
-# task-manager
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
